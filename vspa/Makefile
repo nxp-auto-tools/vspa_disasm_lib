@@ -28,4 +28,3 @@ $(OBJDIR):
 
 clean:
 	rm -rf bin
-
